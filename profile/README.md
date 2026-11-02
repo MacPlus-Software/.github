@@ -21,7 +21,7 @@ Independent Mac apps for window management, the Dock and everyday productivity. 
 
 - **[ActiveDock](https://noteifyapp.com/activedock/)** — customizable Dock replacement with window previews, groups and a start menu.
 - **[DockView](https://noteifyapp.com/dockview/)** — live window previews when you hover a Dock icon.
-- **[MultiDock](https://noteifyapp.com/multidock/)** — compact panels for apps, files and folders, alongside the Dock.
+- **[MultiDock](https://noteifyapp.com/multidock/)** — extra panels for the apps, files and folders you use together, alongside the Dock.
 - **[Quick Dock](https://noteifyapp.com/quick-dock/)** — switch, hide or show the windows of Dock apps with number shortcuts.
 - **[LaunchPanel](https://noteifyapp.com/launchpanel/)** — quick launcher for apps and files.
 
