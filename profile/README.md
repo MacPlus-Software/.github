@@ -41,7 +41,6 @@ Independent Mac apps for window management, the Dock and everyday productivity. 
 - **[UnDistracted](https://noteifyapp.com/undistracted-self-control-2/)** — dims inactive windows and hides the Dock, menu bar and desktop icons.
 - **[DeskCover](https://noteifyapp.com/deskcover/)** — hides desktop clutter behind a cover and highlights the active window.
 - **[Mova](https://noteifyapp.com/mova/)** — language indicator next to the cursor; remembers the keyboard layout per app.
-- **[FlexiNet](https://noteifyapp.com/flexinet/)** — menu bar switcher for macOS network locations.
 
 Questions or feedback: [contact form](https://noteifyapp.com/contact-us/)
 
